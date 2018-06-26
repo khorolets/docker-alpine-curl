@@ -1,4 +1,8 @@
-# Docker Alpine Curl
+# Docker Alpine Curl + rancher-cli
+
+It's a fork of [byrnedo/docker-alpine-curl](https://github.com/byrnedo/docker-alpine-curl). I've added `rancher-cli`
+
+---
 
 Like it says, it's a docker image built on alpine with curl installed. Size 6.7 MB.
 
@@ -6,4 +10,4 @@ Available from docker hub as [byrnedo/alpine-curl](https://hub.docker.com/r/byrn
 
 ## Usage
 
-    docker run --rm byrnedo/alpine-curl https://www.google.com
+    docker run --rm khorolets/alpine-rancher-cli stacks
