@@ -1,6 +1,6 @@
-# Docker Alpine Curl + rancher-cli
+# Docker Alpine Curl + rancher-cli + rancher-compose
 
-It's a fork of [byrnedo/docker-alpine-curl](https://github.com/byrnedo/docker-alpine-curl). I've added `rancher-cli`
+It's a fork of [byrnedo/docker-alpine-curl](https://github.com/byrnedo/docker-alpine-curl). I've added `rancher-cli` and `rancher-compose`
 
 ---
 
